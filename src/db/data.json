@@ -1,0 +1,82 @@
+{
+  "days": [
+    {
+      "id": "1",
+      "day": 1
+    },
+    {
+      "id": "2",
+      "day": 2
+    },
+    {
+      "id": "3",
+      "day": 3
+    },
+    {
+      "id": "eadc",
+      "day": 4
+    },
+    {
+      "id": "8b09",
+      "day": 5
+    }
+  ],
+  "words": [
+    {
+      "id": "1",
+      "day": 1,
+      "eng": "book",
+      "kor": "책",
+      "isDone": true
+    },
+    {
+      "id": "2",
+      "day": 1,
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": false
+    },
+    {
+      "id": "3",
+      "day": 2,
+      "eng": "car",
+      "kor": "자동차",
+      "isDone": false
+    },
+    {
+      "id": "5",
+      "day": 3,
+      "eng": "school",
+      "kor": "학교",
+      "isDone": false
+    },
+    {
+      "id": "ca3b",
+      "day": "3",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false
+    },
+    {
+      "id": "7281",
+      "day": "2",
+      "eng": "house",
+      "kor": "집",
+      "isDone": false
+    },
+    {
+      "id": "7181",
+      "day": "4",
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": true
+    },
+    {
+      "id": "91c9",
+      "day": "5",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false
+    }
+  ]
+}
